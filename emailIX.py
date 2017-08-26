@@ -1,12 +1,13 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
+# Name:        EmailIX
+# Purpose: Pulls email addresses from all pdf files in a directory. Initially
+#          conceived as a tool for resume handling and the first piece of an
+#          Applicant Tracking System
 #
-# Author:      milleniumsamurai
+# Author:      Arly Parent
 #
 # Created:     30/07/2017
-# Copyright:   (c) milleniumsamurai 2017
-# Licence:     <your licence>
+# Copyright:   (c) Arly Parent 2017
 #-------------------------------------------------------------------------------
 
 from PySide import QtCore, QtGui
